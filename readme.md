@@ -1,0 +1,1 @@
+Soft scroll to top button made with jQuery
